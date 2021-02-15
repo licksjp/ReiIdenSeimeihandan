@@ -1,5 +1,5 @@
 # 姓名判断3 in 1
-2021.02.15 Version248 upload
+2021.02.15 Version248 upload<br>
 Version 2020.12バージョン<br>
 # 姓名判断3 in 1 について<br>
   1.九星姓名判断<br>
