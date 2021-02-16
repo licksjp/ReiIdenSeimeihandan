@@ -1,7 +1,8 @@
 # 姓名判断3 in 1
-2021.02.17 Version2.49 upload>br> 
+2021.02.17 Version2.49 upload<br> 
 2021.02.15 Version2.48 upload<br>
 Version 2020.12バージョン<br>
+
 # 姓名判断3 in 1 について<br>
   1.九星姓名判断<br>
   2.安斎流姓名判断<br>
